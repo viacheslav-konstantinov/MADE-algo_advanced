@@ -1,0 +1,5 @@
+Line: 1, a = 7, type = int
+Line: 2, b = 0, type = int
+Line: 3, c = -7, type = int
+Line: 4, c = -3, type = int
+Line: 5, d = 5, type = int

@@ -1,0 +1,2 @@
+Line: 1, a = 7, type = int
+Line: 2, b = 0, type = float

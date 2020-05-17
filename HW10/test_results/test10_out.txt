@@ -1,0 +1,2 @@
+Line: 1, a = 2, type = int
+Line: 2, b = 240, type = int

@@ -1,0 +1,14 @@
+Line: 1, a = 5, type = int
+Line: 2, b = 6, type = int
+Line: 3, c = 7, type = int
+Line: 5, d = 0, type = int
+Line: 6, d = 1, type = int
+Line: 7, d = 0, type = int
+Line: 8, d = 1, type = int
+Line: 9, d = 1, type = int
+Line: 10, d = 1, type = int
+Line: 12, d = -10, type = int
+Line: 13, d = -6, type = int
+Line: 14, d = 1, type = int
+Line: 15, d = 0, type = int
+File was parsed successfully!
