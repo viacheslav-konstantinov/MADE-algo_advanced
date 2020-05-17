@@ -11,6 +11,17 @@
 Интерпретатор печатает опреации присвоения значений переменным. Допускается перезаписывать переменную. 
 Тип переменной определеятся динамически.
 
+Токены хранятся в виде структур token_struct:
+    struct token_struct
+    {
+        bool is_integer;
+        std::string str;
+        int int_value;
+        float float_value;
+    };
+    
+token_struct реализован в файлах token_struct.hpp и token_struct.cpp.
+    
 Описание грамматики:
 
 Токены 
